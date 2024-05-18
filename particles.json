@@ -4,7 +4,7 @@
       "value": 150,
       "density": {
         "enable": true,
-        "value_area": 800
+        "value_area": 1499.3805191013182
       }
     },
     "color": {
@@ -17,7 +17,7 @@
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 5
+        "nb_sides": 7
       },
       "image": {
         "src": "img/github.svg",
@@ -36,8 +36,8 @@
       }
     },
     "size": {
-      "value": 0,
-      "random": true,
+      "value": 2,
+      "random": false,
       "anim": {
         "enable": false,
         "speed": 40,
@@ -49,8 +49,8 @@
       "enable": true,
       "distance": 150,
       "color": "#ffffff",
-      "opacity": 0.4,
-      "width": 1
+      "opacity": 0.22096133965703635,
+      "width": 2.2096133965703633
     },
     "move": {
       "enable": true,
